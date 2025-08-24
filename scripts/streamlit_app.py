@@ -445,7 +445,7 @@ def show_footer():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; padding: 2rem;">
-        <p>🚀 <strong>AI Anomaly Detection System</strong> | Built for HirePro Assessment</p>
+        <p>🚀 <strong>AI Anomaly Detection System</strong> | Built for HoneyWell Assessment</p>
         <p>Powered by Ensemble Learning • Isolation Forest • One-Class SVM • PCA Analysis</p>
         <p><em>Optimized for industrial process monitoring and time series anomaly detection</em></p>
     </div>
