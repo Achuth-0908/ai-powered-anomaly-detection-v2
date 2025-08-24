@@ -1,4 +1,5 @@
 <div align="center">
+<img width="300" height="300" alt="anomaly-guard-ai-logo" src="https://github.com/user-attachments/assets/dc2f3457-6aba-4a4a-a84f-92c648cf8004" />
 
 # 🚀 AI-Powered Anomaly Detection System
 
@@ -101,8 +102,6 @@ python scripts/run_streamlit.py
 ├── 📋 requirements.txt              # Python dependencies (cloud-optimized)
 ├── 📖 README.md                     # This documentation
 ├── 📊 TEP_Train_Test.csv           # Sample dataset
-├── ⚙️  .streamlit/
-│   └── 🔧 config.toml              # Streamlit configuration
 └── 📂 scripts/
     ├── 🧠 optimized_anomaly_detection.py  # Core ML system
     ├── 🚀 run_streamlit.py                # Local launcher script
@@ -401,61 +400,6 @@ streamlit run streamlit_app.py --server.runOnSave true
 
 <div align="center">
 
-## 🤝 Contributing to the Project
-
-### 🌟 Help Make It Better
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**🍴 Fork**<br>
-Fork the repository
-
-</td>
-<td align="center">
-
-**🌿 Branch**<br>
-Create feature branch
-
-</td>
-<td align="center">
-
-**💻 Code**<br>
-Make your changes
-
-</td>
-<td align="center">
-
-**🧪 Test**<br>
-Test thoroughly
-
-</td>
-<td align="center">
-
-**📤 PR**<br>
-Submit pull request
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📄 License & Usage
-
-**🏢 Developed for Honeywell/HirePro Assessment**
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Deployment Status
 
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" alt="Production Ready">
@@ -495,14 +439,8 @@ Submit pull request
 
 <div align="center">
 
-<h2>🎯 Built with ❤️ for Advanced Anomaly Detection</h2>
-
-<p><strong>🏭 Industrial Process Monitoring • 📊 Time Series Analysis • 🤖 Machine Learning Excellence</strong></p>
-
 <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python">
 <img src="https://img.shields.io/badge/Powered%20by-Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" alt="Powered by Streamlit">
 <img src="https://img.shields.io/badge/ML%20with-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML with Scikit-Learn">
-
-<h3>🚀 Ready to Deploy • 🔬 Research Grade • 🏢 Enterprise Ready</h3>
 
 </div>
