@@ -35,6 +35,17 @@
 > [!NOTE]  
 > **🧠 Advanced Ensemble Learning**: Combines `Isolation Forest`, `One-Class SVM`, and `PCA-based detection` for superior anomaly detection accuracy
 
+---
+
+## 🎥 Demo Video
+
+<div align="center">
+### 🚀 Watch the System in Action
+https://github.com/user-attachments/assets/d8851af7-bfc6-488e-a7d9-400046bfbf95
+</div>
+
+
+
 ## 🚀 Quick Start Guide
 
 <details>
