@@ -1,0 +1,13 @@
+# Core dependencies for Anomaly Detection System
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+plotly>=5.0.0
+
+# Additional ML and data processing
+scipy>=1.7.0
+joblib>=1.0.0
+
+# Optional but recommended for better performance
+numba>=0.56.0
