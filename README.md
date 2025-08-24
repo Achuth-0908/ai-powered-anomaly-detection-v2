@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-<h3 align="center">🔮 Advanced ensemble learning system for industrial process monitoring and time series anomaly detection</h3>
+<h3 align="center">Advanced ensemble learning system for industrial process monitoring and time series anomaly detection</h3>
 
 <p align="center">
   <strong>✨ Optimized for cloud deployment with professional-grade analytics ✨</strong>
@@ -31,11 +31,8 @@
 
 </div>
 
-> [!NOTE] > **🧠 Advanced Ensemble Learning**: Combines `Isolation Forest`, `One-Class SVM`, and `PCA-based detection` for superior anomaly detection accuracy
-
-> [!TIP] > **☁️ Cloud-Ready Deployment**: Fully optimized for Streamlit Cloud with zero file system dependencies
-
-> [!IMPORTANT] > **📊 Interactive Analytics**: Beautiful, professional interface with dynamic plots and real-time feedback
+> [!NOTE]  
+> **🧠 Advanced Ensemble Learning**: Combines `Isolation Forest`, `One-Class SVM`, and `PCA-based detection` for superior anomaly detection accuracy
 
 ## 🚀 Quick Start Guide
 
@@ -75,9 +72,6 @@ python scripts/run_streamlit.py
 
 </div>
 
-> [!WARNING]
-> Make sure all files are committed to your GitHub repository before deploying!
-
 <table align="center">
 <tr>
 <td align="center"><b>Step 1</b><br>🍴 Fork Repository</td>
@@ -115,7 +109,8 @@ python scripts/run_streamlit.py
     └── 🗂️  streamlit_app.py               # Legacy app (deprecated)
 ```
 
-> [!NOTE] > **File Organization**: Main entry point is `streamlit_app.py` in root directory for optimal cloud deployment
+> [!IMPORTANT]  
+> **File Organization**: Main entry point is `streamlit_app.py` in root directory for optimal cloud deployment
 
 <div align="center">
 
@@ -161,8 +156,6 @@ python scripts/run_streamlit.py
 </td>
 </tr>
 </table>
-
-> [!SUCCESS] > **Production Ready**: All deployment blockers resolved with enterprise-grade reliability
 
 <div align="center">
 
@@ -237,7 +230,8 @@ graph LR
 </tr>
 </table>
 
-> [!TIP] > **Optimal Settings**: Start with default values, then fine-tune based on your data characteristics
+> [!TIP]  
+> **Optimal Settings**: Start with default values, then fine-tune based on your data characteristics
 
 <div align="center">
 
@@ -282,7 +276,8 @@ graph LR
 </tr>
 </table>
 
-> [!CAUTION] > **Score Interpretation**: Scores above `30` indicate potential anomalies, above `75` require immediate attention
+> [!CAUTION]  
+> **Score Interpretation**: Scores above `30` indicate potential anomalies, above `75` require immediate attention
 
 ## 🔬 Technical Details
 
